@@ -1,0 +1,151 @@
+Industria de jogos
+	Abra Games
+	1009 empresas de jogos em 2022
+	Unit é a mais utilizada
+	Maioria dos jogos são para mobile (os mais jogados)
+	Eventos de jogos - BIG Festival, BGS e SBGames
+	Maiores empresas brasileiras de jogos - Afterverse, Aquiris, Diorama, Fanatee, Gazeus, Kokku, Wild Life,
+		Pipa Studios, PUGA, SIOUX, Tapps Games.
+	
+Possiveis carreiras Parte 1
+	Programação
+		35% do trabalho
+		Jogabilidade etc
+	Arte Gráfica
+		30% do trabalho
+		Trabalha na parte de desenhos de personagens e mapas
+	Game Design
+		10% do trabalho
+		Trabalho no que o jogador deve sentir em cada fase do jogo
+	Audio Design
+		10% do trabalho
+		Sons do jogo
+	Narrativa
+		7% do trabalho
+		Qual historia queremos contar
+	Tester (QA)
+		8% do trabalho
+		Encontrar falhas e bugs
+	Produção
+		Gerente de projetos
+	Marketing
+		Anuncio do jogo
+
+Possiveis carreiras Parte 2
+	Programação
+		Gameplay
+			Trabalha com a mecanica do jogo
+		AI
+			Inteligência artificial
+			Programação de inimigos
+		Network
+			Programação de redes
+			Multiplayer
+		Ferramentas
+			Criação de ferramentas para ajudar no jogo
+			Para pessoas que não sabem programação
+		GFX / Shaders
+			Efeitos visuais
+			Artes visuais
+
+	Arte Gráfica
+		Arte 2D
+		Arte 3D
+		Animação
+			Personagens, itens, objetos do mundo
+		Arte Conceitual
+			Serve para exemplificar um movimento ou desenho
+		UI / UX
+			Interface de usuario e Experiência do usuário
+		Tech Art
+			Arte visual direto na placa mãe
+			Programação com arte
+			Programação direto na placa de video
+			Efeitos visuais
+			
+	Audio Design
+		Efeitos Sonoros
+			Criar seus proprios efeitos
+		Trilhas Sonoras
+			Criar sua propria trilha sonora
+		Programação de Áudio
+			Audio bem rico
+
+	Game Design
+		Prototipagem
+			Prototipo de ideias para o jogo
+			Serve somente para testar e ver se é bom ou ruim
+		Arquitetura dos sistemas
+			Define regras para todas as ações no jogo
+		Idealização do jogo
+			Ideia do jogo
+		Balanceamento
+			Balancear a quantidade de moedas para comprar um item
+			Isso é para deixar o jogo divertido
+			Não pode deixar muito fácil nem muito dificil
+		UX
+			Experiência do usuário
+			O jogo deve ser divertido
+			Em um nivel o jogador precisa sentir medo
+		Level Design
+			Criar um nível do jogo. Sala, caverna ou ambiente
+
+Pesquisa de Cargos
+	Abragames - Pesquisar cargos de desenvolvimento de jogos
+	Canal "The Gamer Inside Brasil"
+	Sempre olhe os requisitos e se você tem conhecimento na maioria deles
+	Não existem vagas para iniciantes
+
+Por onde começar
+	Estudar
+	Criar jogos
+	Criar Portifólio
+		Github para programadores
+		ArtStation para artistas
+		Itch.io para jogos finalizados
+		Sites próprios para portifolios profissionais
+		Notion para portifolios flexiveis
+
+Dicas para sua carreira
+	Sempre ter um objetivo final
+		Criar meu proprio jogo
+	Passo a passo
+		Estudar programação de jogos
+		Criar Portifolio
+		Networking
+	Inspirações e motivações
+		Gosto de jogos
+		Quero testar algumas ideias sobre jogos
+		Várias opções de emprego
+		Ser valorizado no trabalho
+		Shigeru Miyamoto - Super Mario, Zelda, Donkey Kong
+		Hideo Kojima - Castlevania, 
+		Barry Leitch - Compositor do Top Gear
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	

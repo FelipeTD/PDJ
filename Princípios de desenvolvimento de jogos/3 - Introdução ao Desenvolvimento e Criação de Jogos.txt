@@ -1,0 +1,234 @@
+Rafa Skoberg - Desenvolvedor de jogos - Linkedin: @RafaSkoberg
+
+Visão Geral sobre o Processo
+	Etapas de desenvolvimento
+		Idealização
+			Ter a ideia de um jogo
+		Prototipo
+			Pegar uma ideia e testar
+			Jogar tudo fora e começar do zero depois de validar
+		Fatia Vertical
+			Criar somente uma fatia do jogo
+			Como se fosse um prototipo bonito
+		Inicio da Produção
+			Joga fora tudo e começa de novo
+			Conseguir fazer melhor que a fatia vertical
+		Alpha "Feature Complete"
+			Significa que o jogo está com todas as funcionalidades prontas
+			Não precisa ter todos os itens somente o necessário para testar as funcionalidades
+		Beta "Content Complete"
+			Conteúdo do jogo está completo
+			Criar mais itens, mais classes etc
+		Versão Final
+			Deixar o jogo mais bonito
+			Trabalhar nos detalhes
+		Lançamento
+			Termina de trabalhar na integração com a plataforma
+			Steam - vai salvar o jogo e está tudo funcionando corretamente
+
+Elementos Básicos de um Jogo
+	The wandering village
+		E se a gente connstruisse uma cidade em cima de uma criatura
+		Cada lugar que a criatura vai vira um clima ou ambiente
+		Precisa lidar com recursos para construir as construções
+		Existe uma troca entre a criatura e as pessoas que vivem nela
+		É um jogo de construção
+		Tem um sistema de alimentação para o povo
+		No canto tem um sistema de mensagens para saber o que está acontecendo
+		Precisa definir o tamanho de cada construção
+		Precisa definir como obstaculo para ninguém passar por cima da construção
+		Pode desenhar a rua também para os NPCs andar
+		A area de desenvolvimento tem um limite que é as costas da criatura
+		Você pode fazer o mundo se mexer e a criatura ficar parada
+		Isso facilita calculos para o jogo
+		Interface de usuário
+		Nem todas as construções estão disponiveis
+		Algumas você tem que desbloquear com pesquisa
+		
+	Fray Fight
+		Barra de HP
+		Barra de habilidades
+		Quantidade de ouro e espiritos
+		Buffs
+		Wave
+		Quantidade de monstros na wave
+		Shopping de itens
+		Achieviments
+		Vários campeoes
+		Armas e Itens
+		Boss
+		Várias habilidades
+
+O que é Game Design?
+	É sobre arquitetar um jogo.
+	Vampire Survivors
+		A ideia principal fica na descrição do jogo.
+		RogueLite é um jogo que você sempre começa do zero mas com algumas coisas a mais 
+		O apelo do jogo é ter milhares de inimigos ao mesmo tempo
+		Muitos inimigos e o personagem vai atirando sozinho
+		Jogador precisa somente coletar os itens e explorar o mapa
+		Os tiros podem ser disparados onde o mouse está ou pelas setas do mouse
+		Os monstros sempre irão ir em direção ao centro de onde o personagem está
+		A próxima parte seria mudar os tipos de armas para diversificar o tipo de dano do jogador
+		Os desenvolvedores focaram nas habilidades e não em deixar o jogo bonito
+		Melhorias seriam colocar mais mapas para diversificar a jogabilidade
+		Não precisa de muitas habilidades. Podem ser somente 4 ou 5 que já da para saber como vai funcionar
+		Depois de finalizado basta ir adicionando mais mapas, habilidades, etc.
+
+Identidade Visual em Jogos
+	Vampire Survivors
+		A direção de arte é muito boa porque tudo é feio do mesmo jeito
+		PixelArt a escala tem que ser sempre a mesma
+		O jogo foi feito para ser feio para focar na jogabilidade e surpreender o jogador
+		Os monstros tem uma cor mais viva para diferenciar do mapa
+		Jogo Top-Down. Camera de cima para baixo
+
+	Don't Starve
+		Jogo 3D mas as imagens são 2D
+		
+	TUNIC
+		Jogo 3D com perspectiva isometrica
+		Proposta é de ser um jogo mágico
+
+	Cult of the Lamb
+		Jogo 3D puxado mais para 3D mas a arte é 2D
+		A direção de arte tem mais detalhes nas imagens
+		
+	Forza Horizon 5
+		Jogo de corrida realista
+		Graficos realistas 3D
+		Triple A - melhores jogos do mundo
+		Todos jogos contam uma história
+
+	Starfield
+		Pilotar naves espaciais e visitar diferentes planetas
+		Arte do jogo é ultra realista
+		Jogo tem muitas posibilidades
+		Tudo precisa ser realista. Gravidade etc
+
+	Ember Knights
+		Jogo de magia, fantasia
+		Não é realista. Jogo topdown
+		
+	Dead Cells
+		Você vê o jogo de lado
+		Jogo plataforma 2D
+		Arte suja com muitos detalhes
+		Isso é feito para você prestar atenção para encontrar as coisas na tela
+		
+	Dredge
+		Jogo de exploração com um pouco de terror
+		Você sai para pescar e se anoitecer vão aparecer monstros
+		O foco é ficar olhando para o oceano
+		
+	Superhot
+		Arte simples. Cenario em branco e inimigos em vermelho
+		A logica do jogo é saber como vencer determinada fase
+		Você consegue controlar o tempo		
+
+Principais Plataformas e Tecnologias
+	Os três mais famosos são:
+		Unity
+		Unreal
+		GODOT
+
+	Ainda existem outros:
+		libGDX (jogos em java)
+		GameMaker Studio
+		Gamebryo
+		Lumberyard
+		Hero engine
+		Cocos20x
+		Cryengine
+		Xenko
+		ShiVa
+		JMonkeyEngine (jogos em java)
+		GameSalad
+		LOVE engine (baleia)
+		Monogame (somente código)
+		Torque3D
+		Corona Labs
+
+	O importante é aprender a fazer jogos
+	A engine utilizada não vai interferir no seu conhecimento sobre desenvolvimento de jogos
+	Existe muitos jogos feitos em javascript
+	Para trabalhar com desenvolvimento de jogos:
+		Unity
+		Unreal
+		Blender Engine (programa de modelagem)
+		Construct
+		Gamemaker
+		GODOT
+		Tecnologia própria
+
+Lançamento e Ética
+	Play Store (Google)
+	App Store (Apple)
+	Steam (Valve)
+	Web (Kongregate, GameJolt, etc)
+	Consoles (Xbox, Switch, etc)
+
+	Dificuldades
+		Play Store mais fácil de publicar
+			Faz analise e o jogo é publicado
+			O jogo tem que estar sempre atualizado
+		App Store
+			Mais complicado
+		Steam
+			É a opção mais valida
+			Paga 100 dolares por jogo
+			Uma porcentagem dos lucros fica com a Steam
+		Web
+			Otimas opções para mandar o link e o povo jogar
+		Console
+			A opção mais complexa que existe
+			Envolve contratos de confidencialidade
+			Burocracia
+			O jogo tem que ser analisado e certificado
+		Itch.io
+			O mais fácil de ser feito
+			Faz um .zip e já está funcionando
+
+	Ética
+		Você pode usar comercialmente os assets do seu próprio jogo?
+			Não. Somente para estudos. 
+			Se você estiver ganhando dinheiro você precisa de licença para usar os assets
+			Isso vale para tudo. Personagens, musicas, cenarios
+
+	IA
+		Você tem direito a usar comercialmente os dados com os quais a inteligência artificial foi treinada?
+			Não. 
+			Porque a IA utilizou o trabalho de alguém.
+			Steam bane assets criados por IA.
+
+	Considerações Éticas e Diversidade nos jogos
+		Preocupação com direitos autorais
+		Respeito acima de tudo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

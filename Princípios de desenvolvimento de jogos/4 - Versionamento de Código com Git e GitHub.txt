@@ -1,0 +1,167 @@
+Elidiana Andrade
+
+Visão Geral do Curso e Ferramentas
+
+	Introdução ao Curso
+		Desenvolvedora Front-end
+		Valorant
+		Computador, vontade de aprender, fechar outras abas
+
+	O que é versionamento de Código
+		Conseguir trabalhar de forma separada sem impactar na outra pessoa
+		Git é para conseguir gerar uma nova versão e ter versões de segurança
+		Registra historico
+		Gerencia alterações
+		Organização, controle e segurança
+		Centralizado ou distruido
+		CVS, Subversion ou Git, Mercurial
+		Centralizado somente 1 servidor
+		Distribuido. É duplicado localmente para se o servidor der erro
+		Funciona como backup. Fluxo flexivel. Pode trabalhar offline		
+
+	O que é Git
+		Gratuito e Open Source
+		Ramificações e fusões
+		Leve e rápido
+		Todo curso é baseado na documentação do GIT
+		2002 - BitKeeper
+		2005 - Git
+		git clone - pega um projeto
+		git commit - escreve alterações localmente
+		git pull - pega alterações do servidor
+		git push - envia alterações para o servidor
+		faltou o git add - que é para adicionar as alterações que você quer
+
+	O que é GitHub
+		Comunidade ativa
+		Utilizado mundialmente
+		Mascote Octocat
+		2008 - Desenvolvido por Chris Wanstrath, J. Hyett, Tom Preston-Werner e Scott Chacon
+		2018 - Maior ataque de DDoS. Comprado pela Microsoft 7,5Bi de dolares
+		Github é onde o codigo fica.
+		Git é a ferramenta
+		Verificação de duas etapas ativado
+
+Instalação, Configuração e Autenticação
+
+	Instalando o Git no Windows
+		git-scm.com/download
+		Só ir clicando em next
+
+	Instalando o Git no Linux (Ubuntu)
+		Download linux
+		Roda os comandos que estão no GIT
+		sudo add-apt-repository ppa:git-core/ppa
+		sudo apt update
+		sudo apt install git
+		git --version
+
+	Configurando o Git
+		Botão direito -> Options
+		Da para alterar o tema do git bash
+		git config
+		Pegar as configurações do git
+		control + L -> limpa o terminal
+		git config --global user.name "Tortora"
+		git config --global user.email "fedispato@gmail.com"
+		git config user.name -> retorna o nome definido
+		git config user.email -> retorna email definido
+		git config init.defaultBranch -> retorna nome da branch padrão
+		git config --global init.defaultBranch main
+		git config --global --list
+
+	Autenticando via Token
+		Git não usa mais usuário e senha
+		Agora ele está utilizando token por questão de segurança
+		git clone "url do projeto"
+		Precisa criar um token para dar clone
+		Settings -> Developer settings -> Personal access tokens
+		Digita a senha e redireciona para a configuração do token
+		Da para definir tempo de expiração, permissões
+		Clicar em generate token
+		Quando sair da pagina não terá mais acesso ao token
+		git config --global credential.helper store
+		git config --global credential.helper
+		git config --global --show-origin credential.helper
+		cat .gitconfig (somente no caminho onde está o arquivo .gitconfig)
+
+	Autenticando via Chave SSH
+		Settings -> SSH and GPG keys
+		ls -al ~/.ssh (comando para ver se tem um ssh)
+		Seguir tutorial para gerar chave ssh
+		ssh-keygen -t ed25519 -C "fedispato@gmail.com"
+		Local padrão só dar enter
+		Palavra padrão para senha
+		eval "$(ssh-agent -s)"
+		ssh-add ~/.ssh/id_ed25519
+		Digitar palavra padrão
+		Adicionar ssh na conta do git
+		Basta adicionar ssh nas configurações de ssh
+		Agora da para baixar usando ssh
+
+Primeiros Passos com Git e GitHub
+
+	Criando e Clonando Repositórios
+		git init ou git clone
+		mkdir nome-pasta
+		git init
+		cd .git
+		.git é uma pasta oculta
+		cat config
+		git clone url
+		cd .git
+		cat config
+		git remote -v (mostra os repositorios que está conectado)
+		cd ..
+		git remote add origin url
+		cd .git
+		cat config
+		git clone url nome-pasta
+		git clone URL --branch feature-1 --single-branch
+		Explicação sobre criação de um repositorio no github
+		Nome, descrição, privado ou publico, add readme, add gitignore, templates, add license
+		Repositorios podem ser deletados também
+
+	Salvando Alterações no Repositório Local
+		
+
+	Desfazendo Alterações no Repositório Local
+
+	Enviando e Baixando Alterações com o Repositório Remoto
+
+	Trabalhando com Branches - Criando, Mesclando, Deletando e Tratando Conflitos
+
+	Trabalhando com Branches - Comandos Úteis no Dia a Dia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
