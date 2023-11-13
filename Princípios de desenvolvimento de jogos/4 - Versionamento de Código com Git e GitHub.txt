@@ -138,10 +138,35 @@ Primeiros Passos com Git e GitHub
 		git add . - adiciona todos os arquivos
 
 	Desfazendo Alterações no Repositório Local
+		git init da para remover com rm -rf .git
+		git restore README.md - desfaz as alterações que foram feitas no arquivo
+		git log - mostra logs de commits
+		git commit --amend -m "Nova mensagem" - Modifica a mensagem do ultimo commit
+		git reset --soft mixed ou hard
+		git reset --soft "hash do commit" - retira o commit e coloca os arquivos como add
+		git reset --mixed - é o comando padrão poderia ser somente git reset
+		git reset --mixed "hash do commit" - coloca como não add os arquivos e retira o commit
+		git reset --hard "hash do commit" - ignorou todos os arquivos e desfez todas as alterações 
+		git reflog - mostra todos os commits
+		O ideal é colocar outro commit explicando ao inves de usar esses comandos
+		git restore --staged "arquivo" - remove os arquivos que estão como add
 
 	Enviando e Baixando Alterações com o Repositório Remoto
+		Criar repositorio no github
+		git add .
+		git status
+		git commit -m "mensagem"
+		git log
+		git remote add origin URL
+		git push -u origin main
+		Da para editar os arquivos pelo proprio github
+		Coloca um commit e clica em commit changes
+		Apertando . você abre o editor do github
+		Funciona igual ao VSCode
+		git pull - baixa as alterações
 
 	Trabalhando com Branches - Criando, Mesclando, Deletando e Tratando Conflitos
+		
 
 	Trabalhando com Branches - Comandos Úteis no Dia a Dia
 
