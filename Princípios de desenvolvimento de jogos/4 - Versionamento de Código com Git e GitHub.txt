@@ -123,7 +123,19 @@ Primeiros Passos com Git e GitHub
 		Repositorios podem ser deletados também
 
 	Salvando Alterações no Repositório Local
-		
+		git status - mostra o status do repositorio
+		git add - adiciona os arquivos que você quer que entre no commit
+		README.md - arquivo mark down.
+		Uma forma mais simples de escrever HTML
+		readme.so - site para editar um readme.md
+		Estudar comandos do MD
+		git commit -m "Mensagem"
+		git log - mostrar os commits
+		Git não reconhece pastas vazias
+		echo resumos/ > .gitignore - ignora a pasta resumos
+		echo > .gitignore - não ignora nenhum arquivo
+		touch aulas/.gitkeep - manter as pastas mesmo estando vazio. É uma convenção
+		git add . - adiciona todos os arquivos
 
 	Desfazendo Alterações no Repositório Local
 
