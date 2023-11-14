@@ -166,10 +166,36 @@ Primeiros Passos com Git e GitHub
 		git pull - baixa as alterações
 
 	Trabalhando com Branches - Criando, Mesclando, Deletando e Tratando Conflitos
-		
+		Branch é uma ramificação do projeto
+		Funciona muito bem para trabalhar em equipe
+		Isso evita que pessoas modifiquem um mesmo codigo e dê erro
+		git checkout -b teste (cria uma nova branch)
+		git checkout main
+		git branch -v (ultimo commit de cada branch)
+		git merge teste (junto os codigos das branches)
+		git branch (mostra as branches)
+		git branch -D teste (deleta a branch teste)
+		git pull (pega modificações)
+		Conflito de merge
+		HEAD é local e na parte de baixo é o que pegou do git
+		git add . (adiciona todas modificações)
+		git commit -m "resolvendo conflitos"
+		git push		
 
 	Trabalhando com Branches - Comandos Úteis no Dia a Dia
-
+		git fetch origin main (baixa conteudo sem mesclar)
+		git diff main origin/main (mostra diferença)
+		git merge origin/main (junta as diferenças)
+		git clone URL --branch teste --single-branch
+		git stash (arquiva modificação)
+		git stash list (mostra stash)
+		pode criar branch nova git checkout -b teste-2
+		git checkout teste
+		git stash list
+		git stash pop ou apply (traz alterações que foram salvas)
+		pop deleta o stash e apply mantem
+		
+		
 
 
 
