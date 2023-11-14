@@ -1,0 +1,51 @@
+Venilton Falvo Jr
+
+Criando seu Primeiro Repositório no Github para compartilhar seu progresso
+
+	Introdução e apresentação do projeto
+		Formação: Gradução, Mestrado e Doutorado
+		Estágio 2008 Cast Group Java e DotNet
+		Alguém está sentado na sombra hoje porque alguém plantou uma árvore há muito tempo - Warren Buffett
+		Linkedin e github
+		Introdução, Github e Desafio
+		Desafio é para reforçar conhecimentos sobre git
+		Requisitos - noções basicas de github
+		Git instalado - git bash
+		Engajamento e vontade
+
+	Git e Github: Relembrando algumas coisinhas
+		Criar repositorio no github
+		Adicionar README.md para falar sobre o repositório
+		.gitignore para não subir arquivos que não são necessários
+		Da para mudar pelo proprio github
+		markdownguide.org
+		No github quando faz commit ele já faz o push
+		Mostra o comando git clone URL
+		Fala sobre logar no primeiro git clone
+		Exatamente o que já estou fazendo
+		git status
+		git add .
+		git commit
+		git push origin main
+
+	Desafio de projeto
+		Qual é o desafio?
+		Usar todo conhecimento sobre git e github para criar um repositório
+		Git pode ser usado para muitas coisas além de desenvolvimento de software
+		Dúvidas Fórum ou Comunidade
+
+	Entendendo o Desafio
+		Tem um slide sobre o que foi dito
+
+
+
+
+
+
+
+
+
+
+
+
+
