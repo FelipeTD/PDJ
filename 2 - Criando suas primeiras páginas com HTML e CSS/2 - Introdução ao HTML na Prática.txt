@@ -1,0 +1,87 @@
+Introdução ao HTML na Prática
+
+	Apresentando o Curso
+		HTML basico. Explicando o curso
+		Aprender instalar ambiente de desenvolvimento
+
+	Ferramentas Utilizadas
+		Vai utilizar o VSCode
+		Mostra como que instala e configura o VSCode
+		Explica sobre o VSCode
+		Instalou o live server
+
+	Inspetor de Elementos
+		Aperta F12 que abre
+		Mais ferramentas -> Ferramentas do desenvolvedor
+		Explica sobre as abas
+
+	Estrutura Básica do HTML
+		Index é a página principal
+		Três partes
+		Sinal de menor + sinal de maior + tag
+		html, head, body
+		title
+		Ensina usar live server
+		Atualiza automaticamente
+
+	Falando sobre Tags
+		Explica tag i - italico
+		Explica tag strong - negrito
+		Pode usar as duas
+		Pode usar somente em uma parte
+		Tag input não tem tag de fechamento
+		Tag img não tem tag de fechamento
+
+	Atributos das Tags
+		Atributo id
+		Atributo style
+		Atributo class
+		Atributo type do input
+		Atributo src do img
+		Atributo width do img
+
+	Textos
+		Tag h1, h2 - header
+		Tag p - paragrafo
+		Tag blockquote - citação
+		Tag strong - negrito
+		Tag u - underline
+		Tag i - italico
+		Tag mark - marcado
+		Tag sup - Coloca acima do texto
+		w3schools - referencia do html
+
+	Listas Ordenadas e Não Ordenadas
+		Tag ol
+		Tag ul
+		Pode ser colocado lista dentro de lista
+
+	Links
+		Significa ligação
+		a href
+		target="_blank" - nova janela
+		Se segurar o control ele abre em uma nova aba quando clica
+		title - coloca uma descrição
+		Ensina navegação entre páginas
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
