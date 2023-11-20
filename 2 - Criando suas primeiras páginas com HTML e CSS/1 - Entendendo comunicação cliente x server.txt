@@ -1,0 +1,159 @@
+Diogo Medeiros Mainardes
+
+História da Web
+
+	Apresentação do Curso e Professor
+		Desenvolvedor Sênior - Tech Lead
+		20 anos de programação
+		Sempre gostou de treinamento
+		Investidor
+		Cozinhar é terapia
+		Lives na twitch
+		Explicação do percurso geral do curso
+
+	Primeiros Computadores
+		Havard Mark I 1944
+		Colossus 1946
+		ENIAC 1946
+		2° geração 1959 a 1965 - Transistores
+		3° geração 1965 a 1970 - circuito integrado
+		4° geração 1971 a atualmente
+		Mouse foi criado pela apple
+		5° computador quantico, metaverso, criptomoedas, IA
+	
+	Como Surgiu
+		Telegrafo 1958
+		DARPA - Defense Advanced Research Projects Agency 1950 Guerra Fria
+		Joseph Carl Robnett plantou a semente na darpa
+		Arpanet - sistema de comunicação em pacotes 1969
+		Enviou LOGIN e chegou somente LO
+		Vinton Cerf e Robert Kahn - TCP/IP
+		Tim Berners Lee criou o WWW
+		http://info.cern.ch/ 1991
+
+	Grandes Nomes
+		Grace Murray Hopper - Primeiras programadoras - Inventou o termo bug
+		Joseph Carl Robnett Licklider - Criou a teoria da internet
+		Robert E. Kahn - Criadores do TCP/IP
+		Tim Berners Lee - Pai da internet. Inventou o WWW. Diretor da W3C
+		Marc Andreessen - Reiventou o navegador. Criou o Netscape
+		Bill Gates - Fundou a microsoft. Internet Explorer. Computador pessoal
+		Steve Jobs - Fundou a Apple. Popularizou os celulares em 2007
+
+O que são Clientes
+
+	Cliente no Linguajar Web
+		Conceito Client - Consome a informação de algum lugar
+		Servidor serve informações para os clientes
+		Hospedar é colocar o arquivo de internet no servidor
+		Retorna arquivos html, css, javascript e imagens
+		Navegador gera o cache
+		Design Responsivo ou Responsividade
+		Boas práticas e Testes em navegadores diferentes
+
+	Navegadores
+		Programas instalados no dispositivos para executar arquivos
+		W3C
+		Browsers
+		Netscape MOSAIC
+		Gratuitos
+		Tem um site na w3 schools com a compatibilidade dos navegadores
+
+	Aplicações Web
+		Tem um banco de dados no client mas o principal fica no servidor
+		Não precisa de instalção no computador
+		Existem versões que são web e podem ser instaladas
+		São carreiras diferentes com semelhanças
+
+	Dispositivos Móveis
+		Internet está em todo lugar
+		9 a 10 latino americanos tem um dispositivo movel
+		20 horas por semana no celular
+		60% considera aplicativos muito importantes na rotina
+		Trabalhar com internet é o presente
+
+O que são Servers
+
+	Sobre servidores
+		Servidor usa internet para fazer comunicação mas pode ser local
+		Servidor é mais robusto pois atende vários dispositivos
+		Tipos de servidor: Arquivos, segurança, streaming, e-mail e web
+		Datacenters são conjuntos de servidores
+
+	Hardwares e softwares em servidores
+		Logica e fisica
+		Software e hardware
+		Sistemas operacionais, monitoramento, servidores web
+		Armazenamento, memoria e processadores
+		Sistemas operacionais e Servidores Web
+		Windows Server, Ubuntu, Oracle Linux, Debian, CentOS, fedora
+		Apache, Nginx
+		Faz a requisição e a requisição é respondida
+		Pode fazer um servidor em casa ou contratar um na web
+
+	Tipos de servidores
+		Proxy - serve para segurança antes de ir na internet
+		Firewall - serve para segurança mais voltado para acesso externo
+		Web Server - Cliente acessa internet
+		Email Server - mesma coisa so que é para email
+		Database server - um servidor especifico para banco de dados
+		Application Server - servidor de aplicação dentro da rede sem acesso a internet
+		DNS - Domain Name Service. Lista de nomes e IPs
+		Registro.br - Traduz o IP para um nome
+
+	Hospedagem de sites
+		Colocar os seus arquivos do site em um servidor para outras pessoas acessarem
+		Sites de hospedagem fazem o registro e a hospedagem
+		SSL - coloca criptografia na comunicação
+		É contratado o web server ou espaço que está sendo usado na internet
+		registro.br - Registrar seu site na internet
+		Serve para sites e dominios de email
+		FTP - File Transfer Protocol - serve para enviar e receber arquivos
+		Filezilla
+
+Linguagens de programação
+
+	O que é
+		Instruções e regras usadas para gerar programas (softwares)
+		Javascript, Python, Java, PHP e C#
+		Linguagem de programação e um meio para resolver um problema
+
+	Server-Side
+		Roda do lado do servidor
+		PHP, Java, C#, JS, Ruby
+		Aprenda ao menos uma linguagem
+		Prefira a que a comunidade é mais engajada
+		Experimente!
+
+	Client-Side
+		Roda do lado do cliente
+		JS
+		Não falou das outras linguagens que podem ser utilizadas
+		HTML, CSS e javascript
+		Javascript utiliza nodejs para executar do lado do servidor
+		v8 é um motor de execução de javascript
+		nodejs é um programa que roda o v8 para executar javascript
+
+	HTML não é linguagem de programação
+		Arquivo de marcação
+		Funciona com tags
+		CSV também é um arquivo de marcação
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
