@@ -1,0 +1,77 @@
+Lidiana novamente
+
+Contribuindo em um projeto open source no github
+
+	Introdução ao Lab
+		Resumo sobre carreira dela
+		Objetivo é fazer uma contribuição
+		Pre-requisito git e github
+
+	Formas de contribuir num projeto open source
+		Projeto de código aberto
+		Linux e Roadmaps DIO
+		Relatar problema
+		Sugerir melhorias
+		Escrever atualizar documentação
+		Contribuir com o código
+		Divulgar ou doar
+		Ensinando a criar uma nova issue
+		Ensinando a responder a issue e delegar a um usuário
+		Resolvendo a issue
+		docs: update documento.md fix #1
+		Esse comando fecha a issue
+		Settings -> Issue -> Set up Templates
+		Adiciona templates de issue ou você pode adicionar um novo
+		Solucionar issues utilizando PR
+
+	Desenvolvendo uma contribuição
+		Ensinando a fazer fork
+		git clone
+		git remote
+		git pull upstream main
+		git pull origin main
+		Adicionar arquivo md com o nome do usuario
+		Colocar informações no arquivo md
+		Tem que seguir o padrão do desafio
+		Enviar para sua branch do seu repositorio
+
+	Enviando uma contribuição
+		Precisa enviar um PR 
+		O PR será aceitou automaticamente de acordo com condições
+		Precisa tomar cuidado com o nome do arquivo
+		A automação é case sensitive
+		Link que da para ver o perfil
+		https://digitalinnovationone.github.io/dio-lab-open-source/
+
+	Dicas e Materiais de apoio
+		Encontre um projeto de interesse e adicione ao seu portifolio indicando como contribuiu
+		Participe da comunidade e desenvolvam juntos
+		Conheça e respeite o padrão do projeto
+		Da para editar pelo github apertando .
+		Da para você criar um arquivo indicando o caminho 
+		Ou entrando no caminho primeiro e depois criar o arquivo
+
+	Resumão e explicação sobre a automação dos PRs
+		Fork é uma copia no seu repositorio
+		Mostra o processo inteiro para entregar o desafio
+		Ele faz tudo pelo proprio github
+		Utilizaram Github Actions
+
+	Entendendo o desafio
+		Mostra todo o passo a passo para entregar o desafio e links uteis
+		Link para enviar
+		https://github.com/FelipeTD/dio-lab-open-source
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
