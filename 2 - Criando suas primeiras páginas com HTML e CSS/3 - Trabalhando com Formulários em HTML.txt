@@ -1,0 +1,82 @@
+Trabalhando com Formulários
+
+	Apresentação
+		Explicação sobre o que é um formulário
+		Vai falar sobre várias tags do formulário
+		Rever tags HTML e entender funcionamento de formulários
+		Vai enviar os dados mas não serão processados pelo servidor
+
+	Tags Form
+		Explica sobre formulários
+		LGPD - Lei geral de proteção de dados
+		Exemplo no código no arquivo formulario.html
+		Explica sobre http e https
+		Fala sobre CORS
+		GET e POST 
+		POST não aparece na URL
+		Para enviar o correto é POST
+		autocomplete off não salva senha ou dados
+		efeito on - ao acontecer alguma coisa		
+
+	Tag Input e Seus Tipos
+		Input é um campo onde você insere os valores
+		Tem que funcionar para desktop e mobile
+		text - campo de texto
+		number - aceita somente numeros
+		Diferença entre navegadores
+		button - tipo botão
+		range - um componente de range
+		color - componente de cor
+		email - valida um email
+		url - valida uma url
+		date - abre um calendario
+		week - representa somente semanas. Não funciona no firefox
+		month - representa somente meses.
+		checkbox - caixa de seleção. aceita dois valores
+		radio - caixa de selecção. aceita um ou outra valor
+		file - escolhe um ou mais arquivos do computador
+		hidden - input escondido
+		search - utilizado para buscas
+
+	Checkbox e Radio
+		Código já estava pronto
+		Checkbox precisa do value para cada campo
+		Precisa dizer que é uma lista utilizando []
+		Radiobutton precisa preencher o name
+
+	Button e Seus Tipos
+		3 botões
+		<button type="button"> - Um botão clicavel
+		button reset - limpa os campos preenchidos
+		submit - envia dados do formulario
+		onsubmit - pode validar antes de enviar
+		apertar o enter envia o formulario
+		Importante validar o formulário antes de enviar
+		Para evitar burlar regras do frontend 
+		Deve ser validado no backend também
+
+	Select e Seus Tipos
+		select + option
+		Definir o valor de cada option
+		selected define qual será o selecionado na página inicial
+		multiple pode selecionar vários itens. definido dentro do select
+
+	Textarea
+		area de texto
+		cols e rows
+		pode desativar o redimensionamento da area de texto
+		
+		
+
+	
+
+
+
+
+
+
+
+
+
+
+
