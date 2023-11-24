@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formatações</title>
+</head>
+<body>
+    <h1>Dio.me <sup>TM</sup></h1>
+    <h2>Formulário</h2>
+    <form action="#" name="signup" method="POST" target="_blank" autocomplete="off" onsubmit="alert('Formulario enviado')">
+        <label for="name">Nome:</label> <input type="text" name="name" /> <br><br>
+        Idade: <input type="number" name="age" /> <br><br>
+        Senha: <input type="password" name="password" /> <br><br>
+
+        <label for="text">Text:</label><input type="text" name="text" /> <br><br>
+        <label for="number">Number:</label><input type="number" min="0" max="130" step="5" name="number" /> <br><br>
+        <label for="button">Button:</label><input type="button" value="Enviar" name="button" /> <br><br>
+        <label for="range">Range:</label><input type="range" min="0" max="130" value="10" name="range" /> <br><br>
+        <label for="color">Color:</label><input type="color" name="color" /> <br><br>
+        <label for="email">Email:</label><input type="email" name="email" /> <br><br>
+        <label for="url">URL:</label><input type="url" name="url" /> <br><br>
+        <label for="date">Date:</label><input type="date" name="date" /> <br><br>
+        <label for="week">Week:</label><input type="week" name="week" /> <br><br>
+        <label for="month">Month:</label><input type="month" name="month" /> <br><br>
+        <label for="checkbox">Checkbox:</label><input type="checkbox" name="checkbox" /> <input type="checkbox" name="checkbox" /> <br><br>
+        <label for="radio">Radio:</label><input type="radio" name="radio" /> <input type="radio" name="radio" /> <br><br>
+        <label for="hidden">Hidden:</label><input type="hidden" name="hidden" /> <br><br>
+        <label for="file">File:</label><input type="file" name="file" multiple /> <br><br>
+        <label for="search">Search:</label><input type="search" name="search" /> <br><br>
+
+        <h2>Opções de sabores</h2>
+        <input type="checkbox" name="sabor[]" value="presunto" disabled /> <label for="sabor">Presunto</label> <br><br>
+        <input type="checkbox" name="sabor[]" value="margerita" /> <label for="sabor">Margerita</label> <br><br>
+        <input type="checkbox" name="sabor[]" value="queijos" /> <label for="sabor">4 queijos</label> <br><br>
+        <input type="checkbox" name="sabor[]" value="portuguesa" /> <label for="sabor">Portuguesa</label> <br><br>
+
+        <h2>Borda recheada?</h2>
+        <input type="radio" name="borda" value="sim" /> <label for="borda">Sim</label> <br><br>
+        <input type="radio" name="borda" value="nao" /> <label for="borda">Não</label> <br><br>
+
+        <h2>Informações do funcionário</h2>
+        <label for="nomefuncionario">Nome: </label> <input type="text" name="nomefuncionario" /> <br><br>
+        <label>Cargo: </label>
+        <select name="role" id="role">
+            <option value="">Selecione o cargo</option>
+            <option selected value="techlead">Tech Lead</option>
+            <option value="senior">Sênior</option>
+            <option value="pleno">Pleno</option>
+        </select> <br><br>
+        <label for="assunto">Assunto: </label> <input type="text" name="assunto" /> <br><br>
+        <label for="message">Mensagem: </label>
+        <textarea name="message" id="message" cols="30" rows="10"></textarea> <br><br>
+
+        <button type="submit">Enviar</button>
+        <button type="button" onclick="alert('Apertou')">Apertou</button>
+        <button type="reset">Resetar</button>
+
+    </form>
+    <br>
+    <a href="index.html">Voltar</a>
+</body>
+</html>

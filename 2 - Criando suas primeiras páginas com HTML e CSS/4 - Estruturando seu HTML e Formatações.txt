@@ -1,0 +1,79 @@
+Estruturando seu HTML + Formatações
+
+	Apresentação
+		Estudo sobre algumas tags do HTML
+		Acessibilidade
+		Falar um pouco sobre cores
+
+	Formatando Textos - Parte 1
+		Explicação sobre várias tags que podem ser utilizadas no HTML
+		b, i, u, sub, sup, mark
+		blockquote - citação
+		entre b e strong utilize o strong por causa da semantica
+
+	Formatando Textos - Parte 2
+		Explicação sobre propriedades da tag font
+		color, face
+		As vezes a fonte não existe para determinado navegador
+		Para colocar fonte com espaço precisa de aspas simples
+
+	Div e Span
+		Serve para estruturar o HTML em blocos
+		Também ajuda a organizar com o CSS posteriormente
+		Cabeçalho, menu, conteudo e rodape
+		Estruture sempre de fora para dentro
+		Da mais externa para os detalhes
+		DIV não é exibida na tela
+		div é do tipo display block - ocupa a horizontal da tela inteira
+		Pegar uma página na internet e tentar montar ela com HTML
+		Pode ser usado span no lugar da div em alguns casos
+
+	Fieldsets
+		Mais estrutural
+		Tem uma aparência especifica
+		Criou um formulário com divs e style
+		Fieldset deixa separado por blocos
+		Você pode colocar um style em cada fieldset
+		Para definir o nome do fieldset você pode utilizar o legend
+
+	Embeds
+		História sobre o embed
+		Como a internet era lenta precisava carregar as partes
+		Essas partes precisavam ser independentes
+		Isso diminuia a quantidade que precisava ser baixada
+		Flash player e java applets
+		Videos antes do youtube e clickjogos eram no flash player
+		Existe a tag video que está no lugar do embed
+
+	Iframes
+		iframe pode afetar a segurança do site
+		Mostra conteudo de outro site
+		iframe da para pegar video direto da url
+		No caso do youtube basta colocar embed e o id do video
+
+	Resenha Sobre Cores
+		Não é o foco do curso
+		140 nomes de cores
+		Alguns navegadores suportam outros não
+		Pode utilizar rgb, hex, hsl, rgba e hsla
+		Red Green Blue RGB
+		HEX Vermelho Verde e Azul em Hexadecimal
+		HSL Matiz Sturação e Iluminação 0 vermelho, 120 Verde, 240 azul
+		RGBA coloca o alpha transparencia
+		HSLA coloca o alpha transparencia
+		0, 1, 2... 9, A, B, ... F Hexadecimal
+		Explica sobre rgb, hexadecimal etc
+		O vscode já ajuda a ver a cor e já coloca o código para você
+		Existe uma teoria das cores
+		
+	
+
+
+
+
+
+
+
+
+
+
