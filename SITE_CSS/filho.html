@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Combinador filho</title>
+    <style>
+        div p {
+            background-color: lightgreen;
+        }
+
+        div > p {
+            color: red;
+        }
+
+        .fundo-azul > p {
+            color: aliceblue;
+        }
+
+        .fundo-verde > p {
+            background-color: brown;
+        }
+
+    </style>
+</head>
+<body>
+    <div class="fundo-verde">
+        <p>Paragrafo 1. Dentro da div</p>
+        <p>Paragrafo 2. Dentro da div</p>
+        <span>
+            <p>Paragrafo 3. Dentro da div. Dentro do span</p>
+        </span>
+    </div>
+
+    <div class="fundo-verde">
+        <p>Paragrafo 4. Dentro da div</p>
+        <p>Paragrafo 5. Dentro da div</p>
+        <span>
+            <p>Paragrafo 6. Dentro da div. Dentro do span</p>
+        </span>
+    </div>
+
+    <div class="fundo-azul">
+        <p>Paragrafo 7. Dentro da div</p>
+        <p>Paragrafo 8. Dentro da div.</p>
+        <span>
+            <p>Paragrafo 9. Dentro da div. Dentro do span</p>
+        </span>
+    </div>
+
+    <p>Paragrafo 10. fora da div</p>
+    <p>Paragrafo 11. fora da div</p>
+
+</body>
+</html>

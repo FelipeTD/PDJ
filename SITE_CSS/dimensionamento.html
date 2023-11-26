@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dimensionamento</title>
+    <style>
+
+        #div-01 {
+            background-color: blue;
+            width: 200px;
+            height: 200px;
+        }
+
+        #div-02 {
+            background-color: red;
+            height: inherit;
+        }
+
+        button {
+            background-color: pink;
+            min-width: 200px;
+            max-width: 500px;
+            max-height: 100px;
+        }
+
+        div {
+            width: 300px;
+            height: 300px;
+        }
+
+        #elemento-01 {
+            background-color: orange;
+            margin: 40px 30px 20px 10px;
+        }
+
+        #elemento-02 {
+            background-color: purple;
+            margin-top: 10px;
+            margin-left: 25px;
+            margin-right: 30px;
+            margin-bottom: 50px;
+        }
+
+        #elemento-03 {
+            background-color: red;
+            margin-top: 10px;
+            padding: 60px 50px 20px 20px;
+            box-sizing: border-box;
+        }
+
+    </style>
+</head>
+<body>
+    <div>Dimensão</div>
+
+    <div id="div-01">
+        Div 01
+        <div id="div-02">
+            Div 02
+        </div>
+    </div>
+
+    <br><br>
+
+    <button>Botão</button>
+
+    <br><br>
+
+    <div id="elemento-01">meu texto 1 é bem grande e dificil de ser lido mesmo assim ele pode ser lido sem problemas</div>
+    <div id="elemento-02">meu texto 2 é bem grande e dificil de ser lido mesmo assim ele pode ser lido sem problemas</div>
+
+    <div id="elemento-03">meu texto 3 é bem grande e dificil de ser lido mesmo assim ele pode ser lido sem problemas</div>
+
+</body>
+</html>

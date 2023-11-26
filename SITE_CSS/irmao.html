@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Combinador filho</title>
+    <style>
+        div ~ p {
+            color: red;
+        }
+
+        .fundo-verde + p {
+            background-color: lightgreen;
+        }
+
+        .fundo-amarelo p + p {
+            background-color: yellow;
+        }
+
+    </style>
+</head>
+<body>
+    <div class="fundo-verde">
+        <p>Paragrafo 1. Dentro da div</p>
+        <p>Paragrafo 2. Dentro da div</p>
+        <span>
+            <p>Paragrafo 3. Dentro da div. Dentro do span</p>
+        </span>
+    </div>
+
+    <p>Paragrafo 4. fora da div</p>
+    <p>Paragrafo 5. fora da div</p>
+
+    <div class="fundo-verde">
+        <p>Paragrafo 6. Dentro da div</p>
+        <p>Paragrafo 7. Dentro da div</p>
+        <span>
+            <p>Paragrafo 8. Dentro da div. Dentro do span</p>
+        </span>
+    </div>
+
+    <p>Paragrafo 9. fora da div</p>
+    <p>Paragrafo 10. fora da div</p>
+
+    <div class="fundo-azul">
+        <p>Paragrafo 11. Dentro da div</p>
+        <p>Paragrafo 12. Dentro da div.</p>
+        <span>
+            <p>Paragrafo 13. Dentro da div. Dentro do span</p>
+        </span>
+    </div>
+
+    <p>Paragrafo 14. fora da div</p>
+    <p>Paragrafo 15. fora da div</p>
+
+    <div class="fundo-amarelo">
+        <p>Elemento 01</p>
+        <p>Elemento 02</p>
+        <span>
+            <p>Elemento 03</p>
+            <p>Elemento 04</p>
+        </span>
+        <p>Elemento 05</p>
+        <p>Elemento 06</p>
+    </div>
+
+</body>
+</html>

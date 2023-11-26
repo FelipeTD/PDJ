@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Seletores</title>
+    <style>
+        /*
+        * SELETORES: definem em quais elementos nós vamos aplicar o CSS
+        * 1. Seletor de Tag/Tipo
+        * 2. Seletor por id
+        * 3. Seletor de classes
+        * 4. Seletor universal
+        * 5. Seletor de atributo
+        */
+        /* Por Tag/Tipo */
+        h1 {
+            background-color: darkblue;
+            color: lightgreen;
+        }
+
+        div {
+            background: lightblue;
+            color: darkblue;
+        }
+
+        li {
+            background-color: lightgreen;
+        }
+
+        /* Por ID */
+        #texto-boas-vindas {
+            background-color: red;
+            color: white;
+        }
+
+        #explicacao-seletores {
+            background-color: pink;
+            color: darkred;
+        }
+
+        /* Por Classe */
+        .seletores-mais-comuns {
+            background-color: red;
+        }
+
+        .cor-comum {
+            color: blue;
+            text-transform: uppercase;
+        }
+
+        /* Universal */
+        * {
+            font-weight: bold;
+        }
+
+        /* Por atributo [atributo] 
+            [atributo=value] - valor exato
+            [atributo~=value] - contém o valor 
+            [atributo|=value] - palavra seguida de um hifen -
+            [atributo^=value] - começa com esse prefixo
+            [atributo$=value] - termina com esse sufixo
+            [atributo*=value] - procura o value em qualquer lugar
+        */
+
+        [title="Google"] {
+            color: green;
+        }
+
+        [title~="Netflix"] {
+            color: red;
+        }
+
+        [title|="Site"] {
+            color: lightblue;
+        }
+
+        [href^="http://"] {
+            background-color: lightgray;
+        }
+
+        [href$="br"] {
+            background-color: aliceblue;
+        }
+
+        [href*="airbnb"] {
+            background-color: grey;
+        }
+
+    </style>
+</head>
+<body>
+    <h1>Seletores CSS</h1>
+    <p id="texto-boas-vindas">Bem vindo</p>
+    <p id="explicacao-seletores">No CSS nós possuímos os seletores por ID</p>
+    <div>
+        <p>Olá tudo bem?</p>
+        <ul>
+            <li class="seletores-mais-comuns cor-comum"><b>Seletor por Tipo:</b> Busca elementos por uma tag HTML especifica</li>
+            <li><b>Seletor por ID (#):</b> Busca elementos atraves do atributo "id"</li>
+            <li class="seletores-mais-comuns"><b>Seletor por classe (.):</b> Busca elementos atraves do atributo "class"</li>
+            <li><b>Seletor universal (*):</b> Seleciona todos os elementos HTML</li>
+            <li class="seletores-mais-comuns"><b>Seletor por atributo ([atrib]):</b> Seleciona elementos que possuem um atributo específico em nosso documento HTML e conseguimos também buscar atributos com um valor específico</li>
+        </ul>
+    </div>
+    
+    <div>
+        <ul>
+            <li><a title="Google" href="https://google.com.br">Google</a></li>
+            <li><a title="Site Netflix" href="https://netflix.com">Netflix</a></li>
+            <li><a title="Site-linkedin" href="https://linkedin.com">Linkedin</a></li>
+            <li><a>Facebook</a></li>
+        </ul>
+    </div>
+
+    <div>
+        <ul>
+            <li><a title="Gmail" href="http://gmail.com">Gmail</a></li>
+            <li><a title="Dio Me" href="http://dio.me">DIO.ME</a></li>
+            <li><a title="Twitter" href="https://twitter.com.br">Twitter</a></li>
+            <li><a title="Meu Airbnb perfil" href="https://www.airbnb.com.br/">Airbnb</a></li>
+        </ul>
+    </div>
+</body>
+</html>

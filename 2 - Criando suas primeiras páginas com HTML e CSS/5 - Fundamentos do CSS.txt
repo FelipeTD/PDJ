@@ -1,0 +1,200 @@
+Introdução ao CSS
+	Apresentação do Curso e Ferramentas Utilizadas
+		Michele Ambrosio
+		Tecnico em informática, Ciência da computação
+		Desenvolvedora Frontend
+		Motivação é ajudar os outros
+		Fala sobre o objetivo do curso
+		Responsividade
+		Pre-requisito - HTML
+		Vai usar o Emmet
+
+	O que é CSS
+		Cascading Style Sheets ou Folha de estilo em cascata
+		Determina o layout da pagina
+		Criado em 1994 Hakon Wium Lie
+		CSS1 desenvolvido pela W3C
+		Ficou popular em 1997/1999
+		Atualmente está no CSS3
+		Linguagem de estilos, não é linguagem de programação
+		Também não é uma linguagem de marcação
+
+	O que pode ser Criado com CSS
+		Layout, animações, formas geométricas, desenhos, filtros, contadores
+		Netflix
+		Site da Apple
+		Segue o mesmo padrão
+		Animações
+		Animação do cachorro
+		Animação de texto
+		Animação do notebook
+		Animação simples
+		Desenhos com CSS
+		Star wars
+		Nintendo switch
+		Moto voadora
+		Filtros
+		Efeitos graficos
+		Filtros de cor
+		Filtro na camisa
+		Contadores com CSS
+
+	Formas de declaração do CSS
+		Propriedade é uma caracteristica do HTML
+		color: white;
+		CSS inline
+		Inline não é recomendado
+		CSS foi feito para padronizar os estilos
+		Vantagem é sobreescrever ou quando não tem acesso ao CSS
+		CSS Interno
+		Adiciona no header na tag head
+		Coloca os estilos dentro de seletores
+		inline tem mais prioridade
+		Aumenta o carregamento da página pois o CSS está dentro do HTML
+		Mas isso dificulta a manutenção da página
+		CSS Externo
+		Um arquivo .css
+		Precisa ligar o arquivo css com o html
+		Utilize a tag link e coloque o caminho do arquivo css
+		Estrutura mais limpa e organizada
+		O arquivo css pode ser utilizado em várias páginas
+		A página fica sem estilo durante o carregamento do CSS durante milisegundos
+
+	Depurando o CSS
+		Depurar é entender o código e descobrir erros
+		Você consegue fazer isso apertando F12 no navegador
+		O nome da ferramenta é devtools
+		Botão direto -> Inspecionar
+		margin é o espaçamento entre os itens
+		na aba computed da para filtrar propriedades
+		é possível alterar propriedades e valores na própria página
+		essa alteração é perdida quando a página é atualizada
+		é possível alterar o HTML também
+		Você pode testar vários tamanhos da tela também
+		Até mesmo simular um celular
+		Pode testar com o celular na horizontal também
+
+Seletores
+	Seletor de Tags
+		Explicação sobre seletores
+		tag/tipo, id, classe, universal e atributo
+		irá utilizar CSS interno para ficar fácil de entender
+		Pode ser chamado de seletor de tipo também
+
+	Seletores de ID
+		Eles são únicos dentro do HTML
+		Identifica os elementos pelo id
+
+	Seletor de Classes
+		Você consegue usar mais de uma classe no HTML
+		Pode usar o mesmo nome da classe várias vezes
+		Pode usar mais de uma classe em um elemento
+
+	Seletores Universais
+		Identificado por *
+		Seleciona todos os elementos do HTML
+		Irá explicar o reset CSS
+
+	Seletores de atributo
+		[atributo=value] - valor exato
+            	[atributo~=value] - contém o valor 
+            	[atributo|=value] - palavra seguida de um hifen -
+		[atributo^=value] - começa com esse prefixo
+            	[atributo$=value] - termina com esse sufixo
+		[atributo*=value] - procura o value em qualquer lugar
+
+Combinadores
+	Agrupamento de Seletores
+		CSS permite agrupar seletores
+		Basta utilizar a virgula (,)
+		h1, p, div
+		a virgula é como se fosse um OU
+		div.texto para especificar E
+
+	Combinador Descendente
+		Combinador descendente (espaço)
+		Seletor é filho de outro seletor
+		[SELETOR] [COMBINADOR] [SELETOR]
+		Exemplos no código
+
+	Combinador Filho
+		Combinador filho
+		Combinador filho (>)
+		Filho direto do elemento a esquerda
+		Paragrafo 3 é um elemento neto
+
+	Combinador Irmão
+		Adjacente (+) Diretamente depois do seletor da esquerda
+		Geral (~) 
+		div + p - o proximo p depois da div
+		div ~ p - irmão em geral não somente o logo em seguida
+		
+
+Propriedades de Dimensionamento e Espaçamento
+	Largura e Altura
+		width e height
+		auto - define automaticamente o tamanho de acordo com a tag
+		button de acordo com o texto
+		initial - aplica propriedade que é padrão
+		inherit - define de acordo com o elemento pai
+
+	Altura e Largura Maxima e Minima
+		Define uma largura maxima ou minima
+		Independente do conteudo dentro do botão
+		max-width - Quando passa do valor define ele quebra a linha
+		min-height - Minimo do valor definido
+		Boa para limitar conteudos
+
+	Margin
+		Quando está um quadrado não foi aplicado uma margem
+		Isso no devtools do programador
+		margin-top: 10px
+		margin: 20px aplica nos quatro lados
+		margin: 20px 10px aplica o primeiro valor em cima e na parte de baixo
+		nas laterais aplica 10px
+		3 valores - primeiro valor em cima, segundo dos lados, terceiro embaixo
+		4 valores - cima, direita, baixo, esquerda
+		margin também possui o inherit e auto
+		auto calcula uma margem na direita e esquerda e deixa centralizado
+		Só funciona de forma horizontal. Esquerda e direita
+		ficaria margin: 20px auto;
+		margin pode aplicar valores negativos que somem na tela
+		é para colocar espaçamento em volta do elemento e entre os elementos
+
+	Padding
+		Da espaçamento dentro do elemento
+		Seria dar espaçamento dentro do elemento não em volta
+		É bom para espaçamento de textos dentro da div
+		também aceita valores negativos e divididos por top left right bottom	
+		Também aceita inherit	
+
+	Box Sizing
+		width = largura + borda + padding
+		box-sizing: content-box
+		box-sizing: border-box
+		Define para o que definimos no width não soma
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
