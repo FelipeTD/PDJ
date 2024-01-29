@@ -28,6 +28,7 @@
 
 ### Fundo dos elementos
 - Alterando o fundo dos elementos
+  - https://projects.verou.me/css3patterns/
 - Redimensionanado as imagens de fundo
 - Repetição das imagens de fundo
 - Posicionamento das imagens de fundo
@@ -36,6 +37,7 @@
 - Propriedade background clip
 - Mesclagem
 - Propriedade background
+  - Pode conter todas as propriedades anteriores
 
 ### Bordas
 - Tamanho da borda
