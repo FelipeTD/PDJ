@@ -51,3 +51,17 @@
 - Propridade border image repeat
 - Propridade border image outset p1
 - Propridade border image outset p2
+
+### Fontes
+- Onde encontrar Fontes Personalizadas?
+  - fonts.google.com
+- Personalizando as Fontes do nosso site
+- Aplicando fontes personalizadas com @Font-Face
+- Aplicando fontes personalizadas com @import url()
+- Alterando o tamanho das fontes com font-size
+- Estilo de fontes (Font-style)
+- Espessura das fontes com font-weight
+- Variação das fontes com font-variant
+- Propriedade font-stretch
+- Customizando a altura da linha com line-height
+- Propriedade resumida Font

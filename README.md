@@ -37,7 +37,9 @@
 - _SITE
   - Códigos HTML utilizados para aprender HTML básico
 - SITE_CSS
-  - Adicionado CSS para estudo
+  - Adicionado CSS básico para estudo
+- SITE_CSS_BASICO
+  - Adicionado tudo sobre CSS para estudo
 
 
 

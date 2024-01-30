@@ -1,0 +1,31 @@
+.exemplo {
+    background-color: palevioletred;
+    width: 200px;
+    height: 200px;
+
+    border: 5px solid red;
+
+    /* border-width: 5px; thin, medium, thick, 10px 20px 30px 10px 
+    border-style: solid; none, dashed, dotted, double, groove, ridge, inset, outset 
+    border-color: #995544; */
+
+    border-radius: 10px;
+}
+
+.exemplo2 {
+    background-color: palevioletred;
+    width: 200px;
+    height: 200px;
+    margin: 50px auto;
+
+    border: 20px solid red;
+    /* border-image-source: url("https://images.ctfassets.net/hrltx12pl8hq/5KiKmVEsCQPMNrbOE6w0Ot/341c573752bf35cb969e21fcd279d3f9/hero-img_copy.jpg?fit=fill&w=600&h=400"); */
+    border-image-source: linear-gradient(red, blue);
+    border-image-slice: 10;
+    border-image-width: 10px;
+    border-image-repeat: repeat;
+    border-image-outset: 30px;
+
+    border-image: url("https://images.ctfassets.net/hrltx12pl8hq/5KiKmVEsCQPMNrbOE6w0Ot/341c573752bf35cb969e21fcd279d3f9/hero-img_copy.jpg?fit=fill&w=600&h=400") 10 / 10px / 30px repeat;
+
+}
