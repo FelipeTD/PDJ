@@ -65,3 +65,24 @@
 - Propriedade font-stretch
 - Customizando a altura da linha com line-height
 - Propriedade resumida Font
+
+### Textos
+- Propriedade text-transform
+- Propriedade text-align
+- Propriedade text-decoration
+- Propriedade text-ident
+- Propriedade letter-spacing e word-spacing
+- Propriedade white-space
+- Propriedade word-wrap
+- Propriedade word-break
+- Propriedade writing-mode
+- Propriedade text-overflow
+
+### Sombras
+- Efeito de sombra nos elementos
+- Efeito de sombra nos textos
+
+### Outros
+- Aplicando transparência aos elementos
+- Propriedade overflow
+- Redefinindo as propriedades padrões dos navegadores

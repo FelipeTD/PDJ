@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Textos</title>
+    <style>
+        #p1 {
+            text-transform: lowercase;
+            background-color: lavender;
+            padding: 10px;
+        }
+
+        .align {
+            text-align: justify;
+            width: 370px;
+            border: 1px solid black;
+        }
+
+        h1 + p {
+            text-decoration-line: underline;
+            text-decoration-style: wavy;
+            text-decoration-color: blue;
+            text-decoration-thickness: 2px;
+        }
+
+        a {
+            text-decoration: none;
+        }
+
+        #ident {
+            text-indent: 100px;
+        }
+
+        #letter {
+            letter-spacing: 20px;
+        }
+
+        #word {
+            word-spacing: 20px;
+        }
+
+        .branco {
+            white-space: pre;
+            width: 200px;
+        }
+
+        #quebra-palavra {
+            word-wrap: break-word;
+            width: 100px;
+            background-color: lavender;
+        }
+
+        #break-palavra {
+            word-break: break-all;
+            width: 100px;
+            background-color: lavender;
+        }
+
+        #escrever {
+            writing-mode: vertical-lr;
+            text-decoration: none;
+        }
+
+        #pontos {
+            width: 100px;
+            overflow: hidden;
+            white-space: nowrap;
+            text-overflow: ellipsis;
+        }
+
+    </style>
+</head>
+<body>
+    <h1>Propriedade <code>text-transform</code></h1>
+    <p id="p1">
+        É RESPONSÁVEL por definir quais caracteres vão estar em Maiúsculo, minúsculo, etc.
+    </p>
+
+    <h1>Propriedade <code>text-align</code></h1>
+    <p>
+        Essa propriedade é responsável por alinhar o nosso texto no nosso elemento
+    </p>
+    <br><br>
+    <p class="align">
+            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Fugiat minima natus tenetur animi eius perspiciatis unde vel, 
+            sed, atque beatae id. Laborum eveniet consequuntur impedit harum voluptatibus ipsum veritatis. Fugiat!
+    </p>
+
+    <h1>Propriedade <code>text-decoration</code></h1>
+    <p>
+        Adiciona ou remove linhas no nosso texto: sejam linhas em cima, no meio, ou embaixo
+    </p>
+    <p>
+        É uma propriedade abreviada de:
+        <ul>
+            <li><code>text-decoration-line</code></li>
+            <li><code>text-decoration-style</code></li>
+            <li><code>text-decoration-color</code></li>
+            <li><code>text-decoration-thickness</code></li>
+            <li><code></code></li>
+        </ul>
+    </p>
+    <a href="#">Link de exemplo</a>
+
+    <h1>Propriedade <code>text-ident</code></h1>
+    <p>
+        Define o recuo da primeira linha do nosso texto
+        Exemplo:
+    </p>
+    <p id="ident">
+        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Autem doloremque minima neque eius officia quidem veniam exercitationem voluptatum repudiandae sit aut nesciunt perspiciatis voluptatem consequuntur, nihil labore magni quia consequatur.
+    </p>
+
+    <h1>Propriedade <code>letter-spacing</code></h1>
+    <p id="letter">
+        Adicionar um espaçamento entre cada CARACTERE do seu texto. Como o nome já diz, espaçamento entre letras
+    </p>
+    <h1>Propriedade <code>word spacing</code></h1>
+    <p id="word">
+        Adicionar um espaçamento entre cada PALAVRA do seu texto. Como o nome já diz, espaçamento entre as palavras
+    </p>
+
+    <h1>Propriedade <code>white-space</code></h1>
+    <p>Define como os espaços em branco do texto de um determinado elemento é tratado</p>
+    <i>Exemplos: </i> <br><br>
+    <p class="branco">
+        Lorem              ipsum dolor sit amet consectetur adipisicing elit. 
+        Aperiam architecto quo laudantium cupiditate praesentium veritatis. 
+        Eaque ullam, incidunt illum repellendus facilis ipsam deleniti quia corrupti quae est. Autem, ad molestias.
+    </p>
+
+    <h1>Propriedade <code>word-wrap</code></h1>
+    <p id="quebra-palavra">
+        Trilha de css
+        TrilhaDeCssTudoNaLinha
+        Trilha de css
+    </p>
+
+    <h1>Propriedade <code>word-wrap</code></h1>
+    <p id="break-palavra">
+        Trilha de css
+        TrilhaDeCssTudoNaLinha
+        Trilha de css
+    </p>
+
+    <h1>Propriedade <code>writing-mode</code></h1>
+    <p id="escrever">
+        Chega de saudades a realidade é que sem ela não há paz
+    </p>
+
+    <h2>Propriedade <code>text-overflow</code></h2>
+    <p id="pontos">
+        Texto de teste para exemplo dos tres pontos
+    </p>
+
+</body>
+</html>
