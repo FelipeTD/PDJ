@@ -58,6 +58,10 @@
   - Código básico de javascript
 - CONDICIONAIS
   - Código básico de javascript com explicação sobre condicionais
+- EXERCICIOS
+  - Exercicios resolvidos
+- FUNCOES
+  - Código sobre funções em javascript
 
 
 
