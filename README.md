@@ -62,6 +62,8 @@
   - Exercicios resolvidos
 - FUNCOES
   - Código sobre funções em javascript
+- CLASSES
+  - Explicação sobre objetos e classes em javascript
 
 
 
