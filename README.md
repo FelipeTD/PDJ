@@ -32,6 +32,8 @@
   - Explicação sobre o básico do CSS
 - Estilizações básicas com CSS.md
   - Utilização do CSS para deixar páginas bonitas
+- Criando sua primeira landing page com HTML e CSS
+  - Projeto para criar uma página utilizando HTML e CSS
 
 #### Conteúdo
 - _SITE
@@ -40,6 +42,22 @@
   - Adicionado CSS básico para estudo
 - SITE_CSS_BASICO
   - Adicionado tudo sobre CSS para estudo
+
+### Deixando suas páginas web dinâmicas com javascript
+- Primeiros passos com javascript
+  - Básico de javascript
+- Conhecendo funções javascript
+  - Conceito de funções
+- Criando objetos e classes javascript
+- Arrays e estruturas de repetição em javascript
+- Importação e exportação com javascript
+- Criando um projeto com HTML/CSS para listagem pokémon
+
+#### Conteúdo
+- VARIAVEIS E OPERADORES
+  - Código básico de javascript
+- CONDICIONAIS
+  - Código básico de javascript com explicação sobre condicionais
 
 
 
