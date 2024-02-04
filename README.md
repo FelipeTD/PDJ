@@ -51,6 +51,7 @@
 - Criando objetos e classes javascript
   - Conceito de classes em javascript
 - Arrays e estruturas de repetição em javascript
+  - Conceito de arrays e for
 - Importação e exportação com javascript
 - Criando um projeto com HTML/CSS para listagem pokémon
 
@@ -65,6 +66,10 @@
   - Código sobre funções em javascript
 - CLASSES
   - Explicação sobre objetos e classes em javascript
+- ARRAYS
+  - Explicação sobre arrays e for
+- IMPORTACAO
+  - Explicação sobre como importar e exportar funções em javascript básico
 
 
 
