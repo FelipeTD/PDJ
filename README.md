@@ -53,7 +53,9 @@
 - Arrays e estruturas de repetição em javascript
   - Conceito de arrays e for
 - Importação e exportação com javascript
+  - Conceito de exportação e importação de funções em javascript
 - Criando um projeto com HTML/CSS para listagem pokémon
+  - Fez somente HTML e CSS. Nada de javascript
 
 #### Conteúdo
 - VARIAVEIS E OPERADORES
@@ -70,6 +72,8 @@
   - Explicação sobre arrays e for
 - IMPORTACAO
   - Explicação sobre como importar e exportar funções em javascript básico
+- POKEMON
+  - HTML e CSS do projeto de pokémon
 
 
 
