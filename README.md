@@ -49,6 +49,7 @@
 - Conhecendo funções javascript
   - Conceito de funções
 - Criando objetos e classes javascript
+  - Conceito de classes em javascript
 - Arrays e estruturas de repetição em javascript
 - Importação e exportação com javascript
 - Criando um projeto com HTML/CSS para listagem pokémon
