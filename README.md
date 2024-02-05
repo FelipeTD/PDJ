@@ -43,7 +43,7 @@
 - SITE_CSS_BASICO
   - Adicionado tudo sobre CSS para estudo
 
-### Deixando suas páginas web dinâmicas com javascript
+### Deixando suas páginas web dinâmicas com javascript (Modulo3)
 - Primeiros passos com javascript
   - Básico de javascript
 - Conhecendo funções javascript
@@ -75,7 +75,7 @@
 - POKEMON
   - HTML e CSS do projeto de pokémon
 
-### Aprimorando sua lógica de programação com desafios de códigos básicos
+### Aprimorando sua lógica de programação com desafios de códigos básicos (Modulo4)
 - Desafios de código: Aperfeiçoe sua lógica e pensamento computacional
 - A jornada heroica
 - Pontuando experiências - XP
