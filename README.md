@@ -77,17 +77,32 @@
 
 ### Aprimorando sua lógica de programação com desafios de códigos básicos (Modulo4)
 - Desafios de código: Aperfeiçoe sua lógica e pensamento computacional
+  - Vídeo explicando como resolver desafios
 - A jornada heroica
+  - Desafio simples
 - Pontuando experiências - XP
+  - Desafio simples
 - Capturando pokémons
+  - Desafio simples
 - Coletando tesouros
+  - Desafio simples
 - Gerando biomas em mundo de bloco
+  - Desafio intermediário pois precisava saber a ordem dos itens na lista
 
 #### Conteúdo
 - Sem conteúdo
 - Desafios feitos na plataforma da DIO
 
+### Avançando no javascript com assíncronismo
+- Aprendendo variáveis, escopo e tipos de dados no javascript
+  - Conceito de variáveis simples no javascript
+- Orientação a protótipo com javascript
+- Funções e manipulação de listas com javascript
+- Promises e assincronismo com javascript
 
+#### Conteúdo
+- VARIAVEIS
+  - Explicação sobre variáveis
 
 
 
