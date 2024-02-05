@@ -75,6 +75,19 @@
 - POKEMON
   - HTML e CSS do projeto de pokémon
 
+### Aprimorando sua lógica de programação com desafios de códigos básicos
+- Desafios de código: Aperfeiçoe sua lógica e pensamento computacional
+- A jornada heroica
+- Pontuando experiências - XP
+- Capturando pokémons
+- Coletando tesouros
+- Gerando biomas em mundo de bloco
+
+#### Conteúdo
+- Sem conteúdo
+- Desafios feitos na plataforma da DIO
+
+
 
 
 
