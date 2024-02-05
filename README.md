@@ -97,12 +97,15 @@
 - Aprendendo variáveis, escopo e tipos de dados no javascript
   - Conceito de variáveis simples no javascript
 - Orientação a protótipo com javascript
+  - Conceito de orientação a objetos em javascript com prototype
 - Funções e manipulação de listas com javascript
 - Promises e assincronismo com javascript
 
 #### Conteúdo
 - VARIAVEIS
   - Explicação sobre variáveis
+- PROTOTIPO
+  - Explicação sobre classes
 
 
 
