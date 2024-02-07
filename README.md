@@ -93,7 +93,7 @@
 - Sem conteúdo
 - Desafios feitos na plataforma da DIO
 
-### Avançando no javascript com assíncronismo
+### Avançando no javascript com assíncronismo (Modulo5)
 - Aprendendo variáveis, escopo e tipos de dados no javascript
   - Conceito de variáveis simples no javascript
 - Orientação a protótipo com javascript
@@ -112,6 +112,22 @@
   - Explicacao sobre lista e funções
 - ASSINCRONISMO
   - Explicação sobre async await e promises
+
+### Consolidando conceitos com desafios de código em javascript (Modulo6)
+- Combatendo monstros!
+  - Desafio simples
+- Academia de magia
+  - Desafio simples
+- Tomadas de decisão!
+  - Desafio simples
+- Combinando nomes de pokémons
+  - Desafio simples
+- Gerenciando itens mágicos
+  - Desafio simples
+
+#### Conteúdo
+- Sem conteúdo
+- Desafios feitos na plataforma da DIO
 
 
 
