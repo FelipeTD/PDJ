@@ -99,6 +99,7 @@
 - Orientação a protótipo com javascript
   - Conceito de orientação a objetos em javascript com prototype
 - Funções e manipulação de listas com javascript
+  - Utilizando listas e funções em javascript
 - Promises e assincronismo com javascript
 
 #### Conteúdo
@@ -106,6 +107,8 @@
   - Explicação sobre variáveis
 - PROTOTIPO
   - Explicação sobre classes
+- FUNCOES
+  - Explicacao sobre lista e funções
 
 
 
