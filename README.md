@@ -101,6 +101,7 @@
 - Funções e manipulação de listas com javascript
   - Utilizando listas e funções em javascript
 - Promises e assincronismo com javascript
+  - Utilização de async, await e promises em javascript
 
 #### Conteúdo
 - VARIAVEIS
@@ -109,6 +110,8 @@
   - Explicação sobre classes
 - FUNCOES
   - Explicacao sobre lista e funções
+- ASSINCRONISMO
+  - Explicação sobre async await e promises
 
 
 
