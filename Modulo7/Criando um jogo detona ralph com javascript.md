@@ -1,0 +1,29 @@
+## Criando um jogo detona ralph com javascript
+- Trailer
+    - Sinceramente nada de especial
+    - Mas se for considerar quem nunca fez um jogo está muito da hora
+- Introdução
+    - Precisa ser organizado com o código
+- Setup do projeto
+    - Configuração inicial do projeto
+- Estilizando seu projeto
+    - Construção inicial do menu
+- Construindo HTML com produtividade do emmet
+    - Criando o tabuleiro do jogo
+- Criando os painéis principais
+    - Adicionando imagens ao jogo
+- Pegando elementos específicos do CSS
+    - Ajustando CSS do menu
+- Explicando o conceito de variáveis view e values
+    - Views utilizado no jogo visivel
+    - Values código que está rodando sem o jogador ver
+- Implementando as views e values
+    - Adicionando lógica para o inimigo mudar de lugar a cada 1 segundo
+- Implementando o listener de hitbox
+    - Adicionando hitbox e aumentando pontuação
+- Implementando actions
+    - Organizando o projetos com o objeto actions
+- Implementando áudio e revisão de conceitos
+    - Colocando áudio e melhorando o código
+- Entendendo o desafio
+    - Somente entregar o desafio com link do github

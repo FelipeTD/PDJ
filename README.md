@@ -129,6 +129,14 @@
 - Sem conteúdo
 - Desafios feitos na plataforma da DIO
 
+### Construindo o seu portifólio de jogos com javascript
+- Criando um jogo detona ralph com javascript
+  - Jogo básico com conceitos básicos de organização de projetos
+- Criando um jogo da memória com emojis utilizando javascript
+- Construindo um simulador de piano com javascript
+- Criando um jogo de cartas do Yu-Gi-Oh! com javascript e CSS
+- Avalie o bootcamp potência tech ifood
+
 
 
 
