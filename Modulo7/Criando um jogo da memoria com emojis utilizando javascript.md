@@ -1,0 +1,20 @@
+## Criando um jogo da memória com emojis utilizando javascript
+- Introdução
+    - Explicação que o projeto será feito com injeção de HTML via javascript
+- Criando a base do projeto
+    - Criando estrutura do jogo
+- Começando a criar seus CSS estilizado
+    - Colocando o CSS básico do jogo
+- Criando a estilização do game
+    - Adicionando mais CSS ao jogo
+- Criando os cards dinamicamente
+    - Cards foram adicionados via javascript dinamicamente e aleatoriamente
+- Dando efeito de rotate nos cards
+    - Adicionando efeito de virar ao clicar na carta
+- Criando a condição de vitória
+    - Adicionado condição para quando os cards forem iguais
+    - Adicionado condição de vitória quando o tamanho dos arrays forem iguais
+- Ajustando a parte principal do game
+    - Pequeno ajuste no CSS para não quebrar os cards
+- Entendendo o desafio
+    - Entregar o desafio no github

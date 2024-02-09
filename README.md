@@ -133,6 +133,7 @@
 - Criando um jogo detona ralph com javascript
   - Jogo básico com conceitos básicos de organização de projetos
 - Criando um jogo da memória com emojis utilizando javascript
+  - Jogo da memória com elementos do HTML sendo criados via javascript
 - Construindo um simulador de piano com javascript
 - Criando um jogo de cartas do Yu-Gi-Oh! com javascript e CSS
 - Avalie o bootcamp potência tech ifood
