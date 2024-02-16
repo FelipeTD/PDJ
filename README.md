@@ -141,6 +141,10 @@
 - Criando um jogo de cartas do Yu-Gi-Oh! com javascript e CSS
 - Avalie o bootcamp potência tech ifood
 
+#### Conteúdo
+- Sem conteúdo
+- Projetos feitos no github em repositórios diferentes
+
 
 
 
