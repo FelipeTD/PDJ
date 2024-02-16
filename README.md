@@ -139,7 +139,13 @@
   - Não possui todas as teclas
   - Algumas teclas estão na ordem incorreta
 - Criando um jogo de cartas do Yu-Gi-Oh! com javascript e CSS
+  - Jogo de pedra, papel e tesoura
+  - Utilizou cartas do yugioh
 - Avalie o bootcamp potência tech ifood
+  - Somente avaliar o bootcamp
+  - Foram coisas bem básicas
+  - Ninguém consegue uma vaga para trabalhar com desenvolvimento de jogos fazendo esse curso
+  - Curso excelente para quem quer aprender o básico de HTML, CSS e javascript
 
 #### Conteúdo
 - Sem conteúdo
